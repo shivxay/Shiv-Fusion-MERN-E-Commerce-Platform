@@ -1,7 +1,8 @@
 <h1 align="center">Shiv Fusion: MERN E-Commerce Platform🛒</h1>
 
-
-
+![image](https://github.com/user-attachments/assets/cdf9a768-f7d1-49d7-bb7f-43b05a65cf8a)
+![image](https://github.com/user-attachments/assets/4c275e8d-4a66-4c61-8eeb-02b178cb182a)
+![image](https://github.com/user-attachments/assets/e76ba7ab-e020-451e-a243-7c6b652eceb2)
 
 
 About This Course:
